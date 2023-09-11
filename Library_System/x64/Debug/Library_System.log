@@ -1,0 +1,10 @@
+﻿  Book.cpp
+C:\Users\maher\OneDrive\Desktop\large projects\Library_System\Library_System\Book.h(48,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Library_system.cpp
+C:\Users\maher\OneDrive\Desktop\large projects\Library_System\Library_System\Book.h(48,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maher\OneDrive\Desktop\large projects\Library_System\Library_System\Library_system.h(76,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+C:\Users\maher\OneDrive\Desktop\large projects\Library_System\Library_System\Book.h(48,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maher\OneDrive\Desktop\large projects\Library_System\Library_System\Library_system.h(76,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Library_System.vcxproj -> C:\Users\maher\OneDrive\Desktop\large projects\Library_System\x64\Debug\Library_System.exe
